@@ -4,7 +4,7 @@ Verdadero o falso: la computadora de Internet tiene una clave pública única qu
 
 Verdadero o Falso: cuando realizo una llamada de actualización, el nodo límite participará en el consenso pero no durante las llamadas de consulta.
 
-    Answer: false
+    Answer: true
 
 Verdadero o Falso: Puedo crear una variable certificada que certificará la respuesta del siguiente actor:
 
