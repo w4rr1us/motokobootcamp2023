@@ -3,7 +3,7 @@ import List "mo:base/List";
 
 actor {
 	let my_book : Book.Book = {
-		title = "The C Programming Language";
+		title = "The motoko Programming Language";
 		pages = 155;
 	};
 
